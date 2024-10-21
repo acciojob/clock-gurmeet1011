@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+#timer {
+            font-size: 3em;
+            font-family: Arial, sans-serif;
+            margin-top: 50px;
+            text-align: center;
+        }
